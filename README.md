@@ -6,7 +6,7 @@ This plugin adds a document issue provider to check if a segment begins with the
 ## Installation
 
 You can get a plugin jar file from zip/tgz distribution file.
-OmegaT plugin should be placed in `$HOME/.omegat/plugin` or `C:\Program Files\OmegaT\plugin`
+OmegaT plugin should be placed in `$HOME/.omegat/plugins` or `C:\Program Files\OmegaT\plugins`
 depending on your operating system.
 
 ## RFE
